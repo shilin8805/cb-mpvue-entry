@@ -1,7 +1,7 @@
 {
-  "name": "citicbank-mpvue-entry",
+  "name": "cb-mpvue-entry",
   "version": "1.4.7",
-  "description": "Fork自mpvue-entry，针对citicbank修改优化，内部使用。",
+  "description": "Fork自mpvue-entry，针对cbframework修改优化，内部使用。",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint --format node_modules/eslint-friendly-formatter --ext .js .",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shilin8805/citicbank-mpvue-entry.git"
+    "url": "git+https://github.com/shilin8805/cb-mpvue-entry.git"
   },
   "keywords": [
     "mpvue",
