@@ -1,3 +1,3 @@
-# citicbank-mpvue-entry
+# cb-mpvue-entry
 
-> Fork自mpvue-entry，针对citicbank修改优化，内部使用。
+> Fork自mpvue-entry，针对cbframework框架修改优化，内部使用。
